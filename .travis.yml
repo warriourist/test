@@ -7,3 +7,5 @@ matrix:
   - php: 7.0
 script:
   - php index.php
+notifications:
+    slack: warriourist:4aZQPBrRd0GZP0RWVPY6npla
